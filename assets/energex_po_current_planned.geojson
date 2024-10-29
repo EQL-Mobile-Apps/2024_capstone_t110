@@ -1,0 +1,345 @@
+{
+    "type": "FeatureCollection",
+    "name": "PLANNED",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.290755,
+                    -27.547539
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-768433-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "7",
+                "REASON": "Planned Maintenance",
+                "STATUS": "In Progress",
+                "START": "8:00AM 25 Aug 2024",
+                "EST_FIX_TIME": "3:00PM 25 Aug 2024",
+                "STREETS": "BUARABA ST, CUMNERS RD, GOOS RD",
+                "SUBURBS": "GATTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.896349,
+                    -26.691109
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-774031-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "63",
+                "REASON": "Planned Maintenance",
+                "STATUS": "Scheduled",
+                "START": "9:30PM 25 Aug 2024",
+                "EST_FIX_TIME": "5:00AM 26 Aug 2024",
+                "STREETS": "BARSONS RD, MAIN ST",
+                "SUBURBS": "MONTVILLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.178235,
+                    -27.668801
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-774367-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "63",
+                "REASON": "Planned Maintenance",
+                "STATUS": "In Progress",
+                "START": "8:30AM 25 Aug 2024",
+                "EST_FIX_TIME": "3:30PM 25 Aug 2024",
+                "STREETS": "PACIFIC HWY",
+                "SUBURBS": "LOGANHOLME"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.031435,
+                    -27.493641
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-777611-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "9",
+                "REASON": "Planned Maintenance",
+                "STATUS": "In Progress",
+                "START": "7:00AM 25 Aug 2024",
+                "EST_FIX_TIME": "3:00PM 25 Aug 2024",
+                "STREETS": "BURKE ST, ELLIOTT ST",
+                "SUBURBS": "WOOLLOONGABBA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.069862,
+                    -27.685457
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-772916-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "Planned Maintenance",
+                "STATUS": "In Progress",
+                "START": "9:00AM 25 Aug 2024",
+                "EST_FIX_TIME": "5:00PM 25 Aug 2024",
+                "STREETS": "MAGNESIUM DR",
+                "SUBURBS": "CRESTMEAD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.887309,
+                    -26.684514
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-774642-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "187",
+                "REASON": "Planned Maintenance",
+                "STATUS": "Scheduled",
+                "START": "9:30PM 25 Aug 2024",
+                "EST_FIX_TIME": "5:00AM 26 Aug 2024",
+                "STREETS": "FLAXTON DR, HAMPTONS PL, HOFFMAN CL, HUNCHY RD, MAIN ST, WESTERN AVE",
+                "SUBURBS": "HUNCHY, MONTVILLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.887309,
+                    -26.684514
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-774082-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "187",
+                "REASON": "Planned Maintenance",
+                "STATUS": "Cancelled",
+                "START": "9:00PM 25 Aug 2024",
+                "EST_FIX_TIME": "5:00AM 26 Aug 2024",
+                "STREETS": "FLAXTON DR, HAMPTONS PL, HOFFMAN CL, HUNCHY RD, MAIN ST, WESTERN AVE",
+                "SUBURBS": "HUNCHY, MONTVILLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.01478,
+                    -27.425159
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-769003-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "11",
+                "REASON": "Planned Maintenance",
+                "STATUS": "Cancelled",
+                "START": "7:30AM 25 Aug 2024",
+                "EST_FIX_TIME": "3:30PM 25 Aug 2024",
+                "STREETS": "EVELYN ST, GRANGE RD",
+                "SUBURBS": "GRANGE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.799667,
+                    -26.916064
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-776853-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "Planned Maintenance",
+                "STATUS": "In Progress",
+                "START": "8:00AM 25 Aug 2024",
+                "EST_FIX_TIME": "3:00PM 25 Aug 2024",
+                "STREETS": "DUNNING LANE, UNWIN RD",
+                "SUBURBS": "STANMORE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.760042,
+                    -27.620179
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-778203-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "Planned Maintenance",
+                "STATUS": "Scheduled",
+                "START": "8:00PM 25 Aug 2024",
+                "EST_FIX_TIME": "4:00AM 26 Aug 2024",
+                "STREETS": "CHELMSFORD AVE",
+                "SUBURBS": "IPSWICH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.123116,
+                    -26.729275
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-773589-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "96",
+                "REASON": "Planned Maintenance",
+                "STATUS": "Completed",
+                "START": "7:30AM 25 Aug 2024",
+                "EST_FIX_TIME": "3:00PM 25 Aug 2024",
+                "STREETS": "DUAL AVE, MACHINERY AVE, TEXTILE AVE",
+                "SUBURBS": "WARANA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.183074,
+                    -27.715534
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-773332-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "14",
+                "REASON": "Planned Maintenance",
+                "STATUS": "In Progress",
+                "START": "7:30AM 25 Aug 2024",
+                "EST_FIX_TIME": "2:30PM 25 Aug 2024",
+                "STREETS": "HARBURG DR, HORIZON DR",
+                "SUBURBS": "BEENLEIGH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.980255,
+                    -27.494994
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-767455-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "151",
+                "REASON": "Planned Maintenance",
+                "STATUS": "In Progress",
+                "START": "7:00AM 25 Aug 2024",
+                "EST_FIX_TIME": "3:00PM 25 Aug 2024",
+                "STREETS": "QUEENS RD, SWANN RD",
+                "SUBURBS": "TARINGA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.122302,
+                    -26.729501
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-773114-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "25",
+                "REASON": "Planned Maintenance",
+                "STATUS": "Completed",
+                "START": "7:30AM 25 Aug 2024",
+                "EST_FIX_TIME": "3:00PM 25 Aug 2024",
+                "STREETS": "DUAL AVE, MACHINERY AVE",
+                "SUBURBS": "WARANA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.076467,
+                    -27.491082
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-774898-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "53",
+                "REASON": "Planned Maintenance",
+                "STATUS": "In Progress",
+                "START": "8:00AM 25 Aug 2024",
+                "EST_FIX_TIME": "3:00PM 25 Aug 2024",
+                "STREETS": "DONALD ST, HENDERSON ST, LEWIS ST, WILES ST",
+                "SUBURBS": "CAMP HILL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.00772,
+                    -27.317279
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-777509-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "21",
+                "REASON": "Planned Maintenance",
+                "STATUS": "In Progress",
+                "START": "8:00AM 25 Aug 2024",
+                "EST_FIX_TIME": "3:30PM 25 Aug 2024",
+                "STREETS": "ADAIR ST, STRATHPINE RD",
+                "SUBURBS": "BALD HILLS"
+            }
+        }
+    ],
+    "company": "Energex",
+    "state": "Current",
+    "extracted": "1724550601.179114"
+}
